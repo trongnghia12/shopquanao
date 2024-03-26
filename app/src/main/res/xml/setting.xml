@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Bật Chế độ ban đêm">
+
+        <CheckBoxPreference
+            android:title="Chế độ ban đêm"
+            android:key="NIGHT"
+            android:defaultValue="false"
+            android:summaryOn="Chế độ ban đêm được kích hoạt"
+            android:summaryOff="Chế độ ban đêm bị vô hiệu hóa" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Định hướng màn hình">
+        <ListPreference
+            android:title="Định hướng"
+            android:key="ORIENTATION"
+            android:defaultValue="false"
+            android:entries="@array/item_name"
+            android:entryValues="@array/item_value"
+            />
+
+    </PreferenceCategory>
+</PreferenceScreen>

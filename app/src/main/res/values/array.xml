@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_name">
+        <item>Tự động</item>
+        <item>Chân dung</item>
+        <item>Phong cảnh</item>
+    </string-array>
+
+    <string-array name="item_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="products">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+    </string-array>
+</resources>

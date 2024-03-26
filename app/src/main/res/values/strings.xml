@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GiaDung</string>
+
+    <string name="free_ship">Free ship</string>
+    <string name="find_your_cosmetic">Find Your Cosmetic</string>
+    <string name="order_now">Order now</string>
+    <string name="category">Category</string>
+    <string name="popular">Popular</string>
+    <string name="sep_25_sep_30">Sep 25 - Sep 30</string>
+    <string name="order">Order</string>
+</resources>
